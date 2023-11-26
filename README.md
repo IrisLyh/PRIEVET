@@ -7,7 +7,7 @@ Edge-Protected Triangle Count Estimation under Relationship Local Differential P
 ## Preprocess datasets
 ### Unzip Downloaded datasets
 Unzip dataset files (wiki-Vote, cit-HepTh, email-Enron, and facebook) to `./dataset/[dataset-name].txt`
-```
+```shell
 cd ./dataset
 tar -xzvf [dataset-name].tar.gz
 ```

@@ -17,7 +17,8 @@ Preparing IMDB with [IMDB dataset processing code](https://github.com/TriangleLD
 Move the processed dataset (IMDB.txt) to `./dataset/IMDB.txt`
 ## Run triangle counting algorithms
 ```
-chmod -x run.sh
-./run.sh
+chmod +x run.sh
+./run.sh [dataset-name (wiki-Vote/facebook/cit-HepTh/email-Enron/IMDB)]
 ```
 ## Execution environment
+We used python 3.8.5 on Ubuntu 20.04.3 LTS.

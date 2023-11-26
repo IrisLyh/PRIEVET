@@ -16,7 +16,7 @@ tar -xzvf [dataset-name].tar.gz
 2. Preparing IMDB with [IMDB dataset processing code](https://github.com/TriangleLDP/TriangleLDP/blob/main/README.md).
 3. Move the processed dataset (IMDB.txt) to `./dataset/IMDB.txt`
 ## Run triangle counting algorithms
-```
+```shell
 chmod +x run.sh
 ./run.sh [dataset-name (wiki-Vote/facebook/cit-HepTh/email-Enron/IMDB)]
 ```

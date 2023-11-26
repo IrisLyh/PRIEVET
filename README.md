@@ -5,4 +5,6 @@ Edge-Protected Triangle Count Estimation under Relationship Local Differential P
 
 # Usage
 ## Preprocess datasets
-
+## Download and preprocess dataset IMDB
+## Run triangle counting algorithms
+## Execution environment
